@@ -12,11 +12,10 @@ body {
 }
 
 #page-wraper {
-    background: url("https://drive.google.com/uc?id=1uISsIimt-3wOklankbr4fY0TMFC_2oto") no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+    background-color: #29487d;
+    background-image: url(https://goomsite.github.io/file/overlay.svg),linear-gradient(45deg,#29487d 0,#17a2b8 100%);
     background-size: cover;
+    z-index: 0;
     width: 100%;
 }
 
